@@ -1,4 +1,4 @@
-***excel project***
+###excel project###
 
 This project uses Excel to perform data cleaning, analysis, visualization and reporting.
 The primary goal is to derive actionable insights from the dataset and support data-driven decision-making. In doing so, the work covers:
